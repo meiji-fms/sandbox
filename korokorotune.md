@@ -1,4 +1,4 @@
-# YOURID
-- 所属研究室: XX研究室
-- よくいるところ: XX研究室
-- Twitter: [@id](http://twitter.com/id/)
+# korokorotune
+- 所属研究室: 池田研究室
+- よくいるところ: 6階
+- Twitter: [@koroendo7](http://twitter.com/koroendo7/)
