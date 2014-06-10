@@ -14,4 +14,4 @@
 - [salmon2073](salmon2073.md)
 - [ShisoAqron](ShisoAqron.md)
 - [tiarak](tiarak.md)
-- [tkgdiscco](tkegisco.md)
+- [tkgdisco](tkgdisco.md)
